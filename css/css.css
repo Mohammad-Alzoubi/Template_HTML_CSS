@@ -1,4 +1,9 @@
 /*start Main Rulez */
+
+html {
+    scroll-behavior: smooth;
+}
+
 body{
     height: 4000px;    
 }
